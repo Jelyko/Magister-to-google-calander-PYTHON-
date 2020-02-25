@@ -69,8 +69,8 @@ etijd8="16:10"
 #
 #
 #Github: https://github.com/Jasper-crypto/Magister-to-google-calander-PYTHON-
-#©Jasper-Crypto
-#Main code by:
+#©Jasper Demmers 2020
+#Original code by:
 #©Borek Bandell 2019
 
 def dagverkrijgen():
