@@ -1,9 +1,9 @@
-# Magister-to-google-calander-PYTHON-
+# Magister-to-google-calendar-PYTHON-
 Transfer your Magister agenda to your Google agenda
 
 ##### requirement:
 - Python
-- Python Libraries wich include Selenium and Google calander library
+- Python Libraries wich include Selenium and Google calendar library
 - A python file editor
 
 ## Installation:
@@ -12,7 +12,7 @@ Transfer your Magister agenda to your Google agenda
 3. Instal the Selenium Library
         - *Install using PIP command: pip install selenium (Website: https://selenium-python.readthedocs.io)
 	- *Download Selenium browser driver (Navigate to 1.3 (https://selenium-python.readthedocs.io/installation.html)) 
-4. Instal Google Calander library
+4. Instal Google Calendar library
 	- *Install using PIP command: pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib 
 	(Website: https://developers.google.com/api-client-library/python/start/installation)
 	- *Help is below
